@@ -86,6 +86,7 @@ h2 {
     width: 100%;
     min-height: 100px;
     cursor: text;
+    border-radius: 6px;
 }
 
 
